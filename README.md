@@ -1,3 +1,4 @@
+![Brirish-Airways-Logo](https://raw.githubusercontent.com/swalehmwadime/British-Airways-Ds/9235eaeb620f1987f3def874d539a62297da9f30/british-airways%20logo.png)
 # British Airways Data Science Project
 
 This project focuses on analyzing customer reviews of British Airways (BA) to gain insights into customer sentiment, preferences, and areas for improvement. The goal is to leverage data science techniques to extract valuable insights from customer feedback data.
