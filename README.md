@@ -9,7 +9,7 @@ British Airways (BA) is the flag carrier airline of the United Kingdom (UK). Wit
 
 ## Data Collection
 
-The data for this project was collected from the Airline Quality website https://www.airlinequality.com/airline-reviews/british-airways. The website contains customer reviews specifically about British Airways. Reviews were scraped using Python and BeautifulSoup, collecting both review text and recommendations.
+The data for this project was collected from the [Airline Quality website](https://www.airlinequality.com/airline-reviews/british-airways). The website contains customer reviews specifically about British Airways. Reviews were scraped using Python and BeautifulSoup, collecting both review text and recommendations.
 
 ## Data Analysis
 
