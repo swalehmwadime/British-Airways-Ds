@@ -22,7 +22,7 @@ The data for this project was collected from the Airline Quality website https:/
 - Positive and negative recommendation percentages were calculated.
 
 ### Word Frequency Analysis
-[Word-Frequency](https://github.com/swalehmwadime/British-Airways-Ds/blob/main/word%20frequency.png)
+![Word-Frequency](https://github.com/swalehmwadime/British-Airways-Ds/blob/main/word%20frequency.png)
 - Word frequency analysis was conducted to identify common topics or concerns raised by customers.
 - Word clouds were generated to visualize the most frequent words in positive and negative reviews.
 
