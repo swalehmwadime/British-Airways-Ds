@@ -40,7 +40,9 @@ The data for this project was collected from the [Airline Quality website](https
 The analysis of customer reviews provides valuable insights into customer sentiment and preferences. By addressing areas of improvement highlighted in negative reviews, British Airways can enhance customer satisfaction and loyalty. Additionally, positive feedback can be leveraged to reinforce and promote BA's strengths.
 
 ## Notebooks
-[Run Notebook on Google Colab](https://colab.research.google.com/drive/1sXcZZpE_d9isISxd0fZqI2mOwszFp9XJ#scrollTo=pGO0VAg-i7pl)
+- Run notebooks on Google colab <br>
+[BA1 notebook](https://colab.research.google.com/drive/1sXcZZpE_d9isISxd0fZqI2mOwszFp9XJ#scrollTo=pGO0VAg-i7pl)    <br>
+[BA2 notebook](https://colab.research.google.com/drive/1n0BTvnOdbDGRp48cn7sXHjVgjefZcxcE#scrollTo=K4b8mGISLlSB)
 
 ## Future Work
 
