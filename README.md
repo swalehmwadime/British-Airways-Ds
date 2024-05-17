@@ -15,7 +15,7 @@ The data for this project was collected from the [Airline Quality website](https
 
 ### Sentiment Analysis
 - Sentiment analysis was performed on the review text to determine the overall sentiment (positive, negative, neutral) of customer feedback.
-- ![customer-Feedback](https://github.com/swalehmwadime/British-Airways-Ds/blob/main/customer%20feedback.png)
+- ![customer-Feedback](https://github.com/swalehmwadime/British-Airways-Ds/blob/main/Images/customer%20feedback.png)
 - The TextBlob library was used to calculate sentiment polarity.
 
 ### Recommendation Analysis
