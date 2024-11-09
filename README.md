@@ -1,7 +1,11 @@
 ![Brirish-Airways-Logo](https://raw.githubusercontent.com/swalehmwadime/British-Airways-Ds/9235eaeb620f1987f3def874d539a62297da9f30/british-airways%20logo.png)
+## Notebooks
+- Run notebooks on Google colab <br>
+[BA1 notebook](https://colab.research.google.com/drive/1sXcZZpE_d9isISxd0fZqI2mOwszFp9XJ#scrollTo=pGO0VAg-i7pl)    <br>
+[BA2 notebook](https://colab.research.google.com/drive/1n0BTvnOdbDGRp48cn7sXHjVgjefZcxcE#scrollTo=K4b8mGISLlSB)
 # British Airways Data Science Project
 
-We shall be analyzing customer reviews of British Airways (BA) to gain insights into customer sentiment, preferences, and areas for improvement. The goal is to leverage data science techniques to extract valuable insights from customer feedback data.
+We shall be analyzing customer reviews of British Airways (BA) to gain insights into customer sentiment, preferences, and areas for improvement. 
 
 ## Overview
 
@@ -30,19 +34,12 @@ The data for this project was collected from the [Airline Quality website](https
 
 ## Results
 
-- Overall sentiment towards British Airways was predominantly positive, with a sentiment polarity score of X.
-- X% of customers recommended BA, indicating high levels of satisfaction.
+- Overall sentiment towards British Airways was predominantly positive.
 - Common topics mentioned in positive reviews include excellent service, comfortable flights, and friendly staff.
 - Negative reviews often mentioned issues related to flight delays, customer service responsiveness, and baggage handling.
 
-## Conclusion
 
-The analysis of customer reviews provides valuable insights into customer sentiment and preferences. By addressing areas of improvement highlighted in negative reviews, British Airways can enhance customer satisfaction and loyalty. Additionally, positive feedback can be leveraged to reinforce and promote BA's strengths.
 
-## Notebooks
-- Run notebooks on Google colab <br>
-[BA1 notebook](https://colab.research.google.com/drive/1sXcZZpE_d9isISxd0fZqI2mOwszFp9XJ#scrollTo=pGO0VAg-i7pl)    <br>
-[BA2 notebook](https://colab.research.google.com/drive/1n0BTvnOdbDGRp48cn7sXHjVgjefZcxcE#scrollTo=K4b8mGISLlSB)
 
 ## Future Work
 
