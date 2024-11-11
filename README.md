@@ -1,8 +1,9 @@
 ![Brirish-Airways-Logo](https://raw.githubusercontent.com/swalehmwadime/British-Airways-Ds/9235eaeb620f1987f3def874d539a62297da9f30/british-airways%20logo.png)
 ## Notebooks
-- Run notebooks on Google colab <br>
-[BA1 notebook](https://colab.research.google.com/drive/1sXcZZpE_d9isISxd0fZqI2mOwszFp9XJ#scrollTo=pGO0VAg-i7pl)    <br>
-[BA2 notebook](https://colab.research.google.com/drive/1n0BTvnOdbDGRp48cn7sXHjVgjefZcxcE#scrollTo=K4b8mGISLlSB)
+
+<a href="https://colab.research.google.com/drive/1sXcZZpE_d9isISxd0fZqI2mOwszFp9XJ#scrollTo=pGO0VAg-i7pl" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/drive/1n0BTvnOdbDGRp48cn7sXHjVgjefZcxcE#scrollTo=K4b8mGISLlSB" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 # British Airways Data Science Project
 
 We shall be analyzing customer reviews of British Airways (BA) to gain insights into customer sentiment, preferences, and areas for improvement. 
